@@ -1,0 +1,7 @@
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+V:\bridgeLabz\RFP\CodeWrkDir\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
